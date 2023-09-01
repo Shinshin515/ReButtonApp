@@ -15,6 +15,7 @@ void setup()
 
 	AutoShutdownBegin(CONFIG_AUTO_SHUTDOWN_TIMEOUT);
 	DisplayBegin();
+	// swest25
 
 	////////////////////
 	// Read CONFIG
